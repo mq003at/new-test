@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/40c069df-e8db-47e7-bdf8-5aadf9494288/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/spr-test",
+    "appService.deploySubpath": "public"
+}
